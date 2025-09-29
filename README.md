@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I’m Laurens Michielsen  
 
-<!--
-**laurensmichielsen/laurensmichielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Computer Science @ Columbia University (’26)  
+🎓 BS in Computer Science & Engineering @ TU Delft, Cum Laude (8.9/10.0)  
+📍 Exchange @ EPFL – Data Science & Intelligent Systems  
 
-Here are some ideas to get you started:
+🚗 Chief Embedded & Autonomous Software @ Formula Student Team Delft  
+   → Built an autonomous race car (3rd place @ FS Germany EV Cup, 2nd @ FS Czech Republic Driverless EDC)  
+   → Improved localization (0.9m → 0.1m max error) with GraphSLAM  
+   → Developed LiDAR–camera fusion (YOLO + OpenCV) cutting false positives by 80%  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Research @ Computer Vision Lab (TU Delft)  
+   → Investigated label noise in object detection  
+   → Benchmarked YOLOv8 vs Faster R-CNN across multiple datasets  
+
+💻 Former Software Engineer @ Vera Connect  
+   → Built B2C extensions, CRM API adapters, and fraud detection with graph theory  
+
+💻 Former Software Engineer @ Robovision
+   → Designed and prototyped a data management system for datasets of 300TB+
+
+⚡ Tech stack: Python, C++, Java, TypeScript | PyTorch, OpenCV, ROS2, SLAM | Git, Docker, Azure  
+
+🌱 Interests: Autonomous systems, computer vision, robotics, machine learning  
+📫 Let’s connect: [LinkedIn](www.linkedin.com/in/laurens-michielsen) | [Email](mailto:llm2152@columbia.edu)  
