@@ -17,7 +17,7 @@
    → Built B2C extensions, CRM API adapters, and fraud detection with graph theory  
 
 💻 Former Software Engineer @ Robovision
-   → Designed and prototyped a data management system for datasets of 300TB+
+   → Designed and prototyped a data management system for datasets 
 
 ⚡ Tech stack: Python, C++, Java, TypeScript | PyTorch, OpenCV, ROS2, SLAM | Git, Docker, Azure  
 
