@@ -22,4 +22,4 @@
 ⚡ Tech stack: Python, C++, Java, TypeScript | PyTorch, OpenCV, ROS2, SLAM | Git, Docker, Azure  
 
 🌱 Interests: Autonomous systems, computer vision, robotics, machine learning  
-📫 Let’s connect: [LinkedIn](www.linkedin.com/in/laurens-michielsen) | [Email](mailto:llm2152@columbia.edu)  
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/laurens-michielsen) | [Email](mailto:llm2152@columbia.edu)  
